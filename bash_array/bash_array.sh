@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Script Name: Hello World
+#Script Name: bash_array.sh
 #Author: Gina Hobbs
 #Date of last revision: 28 January 2022
 #Description of purpose: create an array of directories and place an empty .txt file in each
