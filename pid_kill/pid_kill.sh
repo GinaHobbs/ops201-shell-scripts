@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Script Name: Hello World
+#Script Name: pid_kill.sh
 #Author: Gina Hobbs
 #Date of last revision: 28 January 2022
 #Description of purpose: display running processes, ask the user for a PID, then kill it.
