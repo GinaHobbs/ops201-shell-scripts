@@ -12,6 +12,8 @@ mkdir dir1 dir2 dir3 dir4
 
 directories=("dir1" "dir2" "dir3" "dir4")
 
+echo ${directories[0]}
+
 touch ./${directories[0]}/new1.txt
 touch ./${directories[1]}/new2.txt
 touch ./${directories[2]}/new3.txt

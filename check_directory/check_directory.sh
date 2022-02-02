@@ -36,3 +36,6 @@ else
 fi
 
 #End
+
+#10 employees, read in their files to check if it exists, 
+#start with an array that has the stuff in it
