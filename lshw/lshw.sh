@@ -2,7 +2,7 @@
 
 #Script Name: lshw.sh
 #Author: Gina Hobbs
-#Date of last revision: 28 January 2022
+#Date of last revision: 2 February 2022
 #Description of purpose: run lshw and use grep to show only CPU and RAM
 #Declaration of variables:
 #Declaration of functions (if used):
