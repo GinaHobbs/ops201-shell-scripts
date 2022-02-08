@@ -19,4 +19,10 @@ Enable-PSRemoting -Force
 #Remove Bloatware; replace appName with name of app you want to remove
 Get-AppxPackage *appName* | Remove-AppxPackage
 
+#Enable Hyper-V
+Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V -All
+
+#Disable SMBv1
+Disable-WindowsOptionalFeature -Online -FeatureName SMB1Protocol
+
 #End
